@@ -34,6 +34,12 @@
   <img src="https://cdn.simpleicons.org/swift/F05138" height="35" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/45159366/128566111-d3bf3de5-d414-432f-a4bf-0049a27570a5.png" height="35" alt="ParrotOS logo"  />
 </div>
 
 ###
