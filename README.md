@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">Je suis passionné par le sport, la programmation et l'engagement communautaire. Je pratique divers sports pour maintenir un mode de vie actif et je participe à des compétitions de hacking, mettant en pratique mes compétences en sécurité informatique. Je contribue également à des projets open-source sur GitHub, soutenant l'évolution des logiciels accessibles à tous. En tant que bénévole pour Tor Project, j'héberge des relais pour un Internet libre et sécurisé, et je suis impliqué dans la cybertraque pour la LPO.</p>
+<p align="left"></p>
 
 ###
 
