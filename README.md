@@ -48,7 +48,7 @@ I'm a Cybersecurity & Network Engineering student. For me, IT is about human pro
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNnMzh1aXFreHZxYjBhZnIwbTd2YjBoYXlmdTY3NGlkZGpjbWw1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JHVUriDGEtWOx0c/giphy.gif"  />
 - 🔬 **Homelabbing:** I prefer building over online platforms. I run my own Firewall, IDS/IPS, Syslog, and create custom vulnerable VMs to hack into.
 - 💻 **Coding:** PHP, SwiftUI (let's forget my brief attempt at Pascal 😅).
-- 🛡️ **Security:** Blue Team participant (Cyber Humanum Est).
+- 🛡️ **Security:** Blue Team lead (Cyber Humanum Est).
 
 **🎯 Focus:** Bridging operational field rigor with system architecture and security.
 
