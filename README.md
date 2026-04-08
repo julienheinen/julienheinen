@@ -8,15 +8,12 @@
   </a>
 
   <a href="https://app.hackthebox.com/profile/1049527" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=HackTheBox&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackthebox logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julienheinen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -42,7 +39,19 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNnMzh1aXFreHZxYjBhZnIwbTd2YjBoYXlmdTY3NGlkZGpjbWw1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JHVUriDGEtWOx0c/giphy.gif"  />
+I'm a Cybersecurity & Network Engineering student. For me, IT is about human problem-solving as much as it is about code and cables.
+
+**⚙️ Currently:**
+- 🎓 **Studying:** 3rd-year Networks & Telecoms (Cybersecurity major) @ IUT Nancy-Brabois.
+- 💼 **Working:** IT Apprentice @ 16Solutions (Field support, Sysadmin, Networking).
+
+  <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNnMzh1aXFreHZxYjBhZnIwbTd2YjBoYXlmdTY3NGlkZGpjbWw1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JHVUriDGEtWOx0c/giphy.gif"  />
+- 🔬 **Homelabbing:** I prefer building over online platforms. I run my own Firewall, IDS/IPS, Syslog, and create custom vulnerable VMs to hack into.
+- 💻 **Coding:** PHP, SwiftUI (let's forget my brief attempt at Pascal 😅).
+- 🛡️ **Security:** Blue Team participant (Cyber Humanum Est).
+
+**🎯 Focus:** Bridging operational field rigor with system architecture and security.
+
 
 ###
 
@@ -57,7 +66,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=julienheinen&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=julienheinen&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
