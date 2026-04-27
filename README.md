@@ -46,6 +46,7 @@ I'm a Cybersecurity & Network Engineering student. For me, IT is about human pro
 - 💼 **Working:** IT Apprentice @ 16Solutions (Field support, Sysadmin, Networking).
 
   <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNnMzh1aXFreHZxYjBhZnIwbTd2YjBoYXlmdTY3NGlkZGpjbWw1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JHVUriDGEtWOx0c/giphy.gif"  />
+- 🚀 **Building:** [@Placks-project](https://github.com/Placks-project) - An AI-powered ecosystem translating Sign Language in real-time to break communication barriers between deaf and hearing communities.
 - 🔬 **Homelabbing:** I prefer building over online platforms. I run my own Firewall, IDS/IPS, Syslog, and create custom vulnerable VMs to hack into.
 - 💻 **Coding:** PHP, SwiftUI (let's forget my brief attempt at Pascal 😅).
 - 🛡️ **Security:** Technical Lead Blue Team (Cyber Humanum Est).
